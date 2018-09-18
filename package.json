@@ -1,0 +1,21 @@
+{
+  "name": "react-native-peiwen-device",
+  "version": "1.0.0",
+  "description": "Some device api for react-native",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bingfeng1225/react-native-peiwen-device.git"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "device"
+  ],
+  "author": "peiwen",
+  "license": "MIT",
+  "homepage": "https://github.com/bingfeng1225/react-native-peiwen-device#readme"
+}
