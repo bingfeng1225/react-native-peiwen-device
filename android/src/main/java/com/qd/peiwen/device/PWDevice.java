@@ -10,7 +10,7 @@ import java.security.NoSuchAlgorithmException;
 public class PWDevice {
     public static String deviceID(Context context) throws NoSuchAlgorithmException {
         StringBuilder builder = new StringBuilder();
-        String key = "AIHISENSE";
+        String key = "PEIWEN";
         builder.append(key);
 
         String model = Build.MODEL;
