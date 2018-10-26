@@ -1,6 +1,6 @@
 {
   "name": "react-native-peiwen-device",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Some device api for react-native",
   "main": "index.js",
   "typings": "index.d.ts",
